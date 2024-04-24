@@ -1,0 +1,16 @@
+{
+  "name": "case-meerkat",
+  "version": "1.0.0",
+  "description": "��\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^123.0.4",
+    "express": "^4.19.2",
+    "selenium-webdriver": "^4.19.0"
+  }
+}
